@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#333232;
+}
+
+#container{
+    background-color: #0e2431;
+    border:5px solid #f5e4c3;
+    height: 325px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 240px;
+    font-size: 22px;
+    background-color: rgb(192, 191, 191);
+    border: none;
+    border-radius: 10px;
+}
+
+#output{
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+
+}
